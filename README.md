@@ -7,7 +7,7 @@
 * The purpose of this project is to acquire proficiency in GWAS analysis and script writing for the GWAS pipeline using the 'subprocess' module in Python, the R program, and Plink.
 * It mainly deals with steps below.
   1. Quality control (QC)
-  2. Population stratification
+  2. Population stratification (the folder name is "Population")
   3. Association test
 
 Furthermore, this project is based on the reference and lecture below.
