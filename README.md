@@ -4,7 +4,7 @@
 
 #### Description :
 * The project was conducted as part of "RISE (Research Intensive Self-motivated Education)" class in the Molecular Life Sciences at Incheon National University, Korea.
-* The purpose of this project is to acquire proficiency in GWAS analysis and script writing for the GWAS pipeline using the 'subprocess' module in Python, the R program, and Plink.
+* The purpose of this project is to acquire proficiency in GWAS analysis and script writing for the GWAS pipeline using the 'subprocess' module in Python, R program, and Plink.
 * It mainly deals with steps below.
   1. Quality control (QC)
   2. Population stratification (the folder name is "Population")
